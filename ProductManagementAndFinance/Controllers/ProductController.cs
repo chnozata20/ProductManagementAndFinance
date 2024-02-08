@@ -4,6 +4,7 @@ using ProductManagementAndFinance.Application.Queries.Abstract;
 using ProductManagementAndFinance.Models.Command.Product;
 using ProductManagementAndFinanceApi.Models.Query.Product;
 
+//test and debugging done
 namespace ProductManagementAndFinance.Controllers
 {
     [ApiController]
